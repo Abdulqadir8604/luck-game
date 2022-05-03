@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:adcolony:4.5.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/0e56d8ccdcc3b5e61972aecb1ba9fc18/adcolony-4.5.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5eae22c525c90fa0d6045e441640e75/transformed/jetified-adcolony-4.5.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/0e56d8ccdcc3b5e61972aecb1ba9fc18/adcolony-4.5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/0e56d8ccdcc3b5e61972aecb1ba9fc18/adcolony-4.5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/0e56d8ccdcc3b5e61972aecb1ba9fc18/adcolony-4.5.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e56d8ccdcc3b5e61972aecb1ba9fc18/jetified-adcolony-4.5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5eae22c525c90fa0d6045e441640e75/transformed/jetified-adcolony-4.5.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5eae22c525c90fa0d6045e441640e75/transformed/jetified-adcolony-4.5.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5eae22c525c90fa0d6045e441640e75/transformed/jetified-adcolony-4.5.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.ads.mediation/adcolony/4.5.0.0/2e1d0d84a7b22f0e50b9e75d81e6e17cf62d8dc/adcolony-4.5.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/adcolony/4.5.0.0/2e1d0d84a7b22f0e50b9e75d81e6e17cf62d8dc/adcolony-4.5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

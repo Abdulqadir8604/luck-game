@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adcolony:sdk:4.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/eb6636525665dee7bb24eb2127076a33/sdk-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/70591c664b57594b050210b49fc68507/jetified-sdk-4.5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/70591c664b57594b050210b49fc68507/jetified-sdk-4.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/70591c664b57594b050210b49fc68507/jetified-sdk-4.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f62bbb08a1b89d10b0dc07b0a031ceea/jetified-sdk-4.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/638ceef59521d7450cd11d1fcb5314a2/transformed/jetified-sdk-4.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/638ceef59521d7450cd11d1fcb5314a2/transformed/jetified-sdk-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/638ceef59521d7450cd11d1fcb5314a2/transformed/jetified-sdk-4.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/92fd8b6c5a05de6dac1ad4a6c0165b8c6e8275aa/sdk-4.5.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/92fd8b6c5a05de6dac1ad4a6c0165b8c6e8275aa/sdk-4.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/ddc09940c31b285b2cb64050f42be86e97b33acf/sdk-4.5.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/ddc09940c31b285b2cb64050f42be86e97b33acf/sdk-4.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

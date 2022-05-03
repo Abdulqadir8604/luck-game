@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356509607719",
+    "firebase_url": "https://android-game-8badc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-game-8badc",
+    "storage_bucket": "android-game-8badc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356509607719:android:f73efd59aa951c5aea2b02",
+        "android_client_info": {
+          "package_name": "com.lamaq.luck_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356509607719-j4m3pq9jijpboamq8uq1jnd04a28vmst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8XHbFRU_DgVnyC82WXRqbW0pO_oPp-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356509607719-j4m3pq9jijpboamq8uq1jnd04a28vmst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
